@@ -8,7 +8,7 @@ Dataset of answers posted between **February 18 2009 to Jun 7 2009**. Although t
 This dataset has been compiled by Chris DuBois from the original [Stack OverFlow data dump](https://stackoverflow.blog/2009/06/04/stack-overflow-creative-commons-data-dump/) by the owners.
 
 By doing EDA, I tried to answer the following Questions:
- - What are the most commonly used tags and how does what is trend in Data Science related Tags?
+ - What are the most commonly used tags and what is trend in Data Science related Tags?
  - How many questions are asked w.r.t number of Tags?
  - What is the average time taken to answer a question?
  - How are number of views related to number of Answers?

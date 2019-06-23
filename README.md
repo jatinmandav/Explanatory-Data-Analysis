@@ -1,4 +1,4 @@
-# Explonatory Data Analysis
+# Explanatory Data Analysis
 
 ## Stack OverFlow Answers Data
 
